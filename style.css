@@ -1,0 +1,36 @@
+*
+{
+    background-color: aquamarine;
+    font-family: Helvetica,  Arial, sans-serif;
+}
+#blackjack
+{
+    color: rgb(101, 69, 245);
+}
+#message-el
+{
+    color: crimson;
+}
+h1
+{
+    text-align: center;
+    color: goldenrod;
+}
+label
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+}
+button
+{
+    font-style: italic;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: greenyellow;
+    border: none;
+    border-radius: 15px;
+    padding-right: 70px;
+    padding-left: 70px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
